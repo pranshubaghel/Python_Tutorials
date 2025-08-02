@@ -1,0 +1,2 @@
+X = "pranshu"
+print(X)
