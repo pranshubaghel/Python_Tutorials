@@ -32,8 +32,23 @@
 # in between 
 
 
+# Name = "pranshu"
+
+# Char = Name[0:3]
+
+
+# print(Char)
+
+# another way
+
+# Name = "pranshu"
+
+# Char = Name[2:]
+
+# print(Char)
+
 Name = "pranshu"
 
-Char = Name[0:3]
+Char = Name[:]
 
 print(Char)
